@@ -97,15 +97,6 @@ status:      🚀 Always learning, always shipping
   <img src="https://raw.githubusercontent.com/ygxiuming/ygxiuming/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
-<!-- ===================== PINNED ===================== -->
-## 📌 Pinned Projects
-
-> 由 `scripts/update_pins.py` 自动维护，运行 `python scripts/update_pins.py` 即可刷新。
-
-<!-- PINNED-START -->
-<p align="center"><i>Pin 区块占位 — 运行 <code>python scripts/update_pins.py</code> 自动填充</i></p>
-<!-- PINNED-END -->
-
 <!-- ===================== CONNECT ===================== -->
 ## 🌐 Connect with Me
 
